@@ -3,9 +3,9 @@
 2. My contacts: 
 - Mobile phone: +375291360317
 - Skype: *dimon_kardamon*
-![Skype] (https://hsto.org/files/441/cf0/41f/441cf041fe0b491fa73b6f9a24b71781.png)
+![Skype](https://hsto.org/files/441/cf0/41f/441cf041fe0b491fa73b6f9a24b71781.png)
 - Viber: *Дмитрий Игнатенко*
-![Viber] (https://upload.wikimedia.org/wikipedia/commons/5/57/Viber-logo.png)
+![Viber](https://upload.wikimedia.org/wikipedia/commons/5/57/Viber-logo.png)
 3. **My main goal**: to study HTML and CSS along with Js because I think this is a promising direction in programming. I have a little knowledge of programming, but I want to **show my potential** and **desire to engage and develop myself**. I chose this direction, because the experience with back-end programming turned out to be unsuccessful :cry: , so I will put all the knowledge to develop in the front-end :smile:
 4. In my specialty at the university there was very little programming, so I was only at the beginning of the path
 - [x] a little C#
@@ -22,4 +22,4 @@
 - I graduated from basic courses on C# in IT-academy
 8. English level:
 * In 2016, I graduated from English courses at the *Department of English Language at BSUIR* at the **Intermediate level**.
-* I have improved my English level on the site [Lingualeo] (https://lingualeo.com/ru)
+* I have improved my English level on the site [Lingualeo](https://lingualeo.com/ru)
