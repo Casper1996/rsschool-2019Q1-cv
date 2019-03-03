@@ -19,6 +19,7 @@
 - Completed HTML and CSS courses on Sololearn
 7. Education
 - I graduated from BSUIR in 2018 with a degree in Automated Information Processing Systems.
-- I graduated from basic courses on C # in IT-academy
-8. 
-In 2016, I graduated from English courses at the *Department of English Language at BSUIR* at the **Intermediate level**.
+- I graduated from basic courses on C# in IT-academy
+8. English level:
+* In 2016, I graduated from English courses at the *Department of English Language at BSUIR* at the **Intermediate level**.
+* I have improved my English level on the site [Lingualeo] (https://lingualeo.com/ru)
